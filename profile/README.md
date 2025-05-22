@@ -2,6 +2,9 @@
 
 武汉脚印猫科技有限公司 开源项目
 
+> [!CAUTION]
+> 公司官网目前尚处于开发阶段，暂未完成开发，请过段时间再来看吧
+
 官网：https://footprintcat.com
 
 邮箱：contact@footprintcat.com
