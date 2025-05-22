@@ -6,6 +6,8 @@
 
 邮箱：contact@footprintcat.com
 
+开源：[GitHub](https://github.com/footprintcat) [Gitee](https://gitee.com/footprintcat)
+
 ## 开源项目
 
 ### 寒霜物联 - Frost IoT
