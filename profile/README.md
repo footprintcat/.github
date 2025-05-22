@@ -15,8 +15,34 @@
 
 项目官网 & 文档：[iot.footprintcat.com](https://iot.footprintcat.com)
 
-| <center>项目</center> | <center>仓库名</center>               |                         GitHub 仓库                         |              Gitee 仓库<br /><sup>国内镜像</sup>               |
-| :------------------ | :--------------------------------- | :-------------------------------------------------------: | :------------------------------------------------------: |
-| 主仓库                 | footprintcat/frost-iot             |     [点击前往](https://github.com/footprintcat/frost-iot)     |     [点击前往](https://gitee.com/footprintcat/frost-iot)     |
-| 项目文档                | footprintcat/frost-iot-doc         |   [点击前往](https://github.com/footprintcat/frost-iot-doc)   |   [点击前往](https://gitee.com/footprintcat/frost-iot-doc)   |
-| 综合管理平台              | footprintcat/frost-iot-doc-manager | [点击前往](https://github.com/footprintcat/frost-iot-manager) | [点击前往](https://gitee.com/footprintcat/frost-iot-manager) |
+代码仓库：
+
+<table>
+  <thead>
+    <tr>
+      <th>项目</th>
+      <th>仓库名</th>
+      <th colspan="2">仓库</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>主仓库</td>
+      <td>footprintcat/frost-iot</td>
+      <td><a href="https://github.com/footprintcat/frost-iot">GitHub 仓库</a></td>
+      <td><a href="https://gitee.com/footprintcat/frost-iot">Gitee 国内镜像</a></td>
+    </tr>
+    <tr>
+      <td>项目文档</td>
+      <td>footprintcat/frost-iot-doc</td>
+      <td><a href="https://github.com/footprintcat/frost-iot-doc">GitHub 仓库</a></td>
+      <td><a href="https://gitee.com/footprintcat/frost-iot-doc">Gitee 国内镜像</a></td>
+    </tr>
+    <tr>
+      <td>综合管理平台</td>
+      <td>footprintcat/frost-iot-doc-manager</td>
+      <td><a href="https://github.com/footprintcat/frost-iot-manager">GitHub 仓库</a></td>
+      <td><a href="https://gitee.com/footprintcat/frost-iot-manager">Gitee 国内镜像</a></td>
+    </tr>
+  </tbody>
+</table>
