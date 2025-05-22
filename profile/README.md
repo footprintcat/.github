@@ -39,9 +39,9 @@
     </tr>
     <tr>
       <td>项目文档</td>
-      <td>footprintcat/frost-iot-doc</td>
-      <td><a href="https://github.com/footprintcat/frost-iot-doc">GitHub 仓库</a></td>
-      <td><a href="https://gitee.com/footprintcat/frost-iot-doc">Gitee 国内镜像</a></td>
+      <td>footprintcat/frost-iot-docs</td>
+      <td><a href="https://github.com/footprintcat/frost-iot-docs">GitHub 仓库</a></td>
+      <td><a href="https://gitee.com/footprintcat/frost-iot-docs">Gitee 国内镜像</a></td>
     </tr>
     <tr>
       <td>综合管理平台</td>
