@@ -49,5 +49,11 @@
       <td><a href="https://github.com/footprintcat/frost-iot-manager">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-manager">Gitee 国内镜像</a></td>
     </tr>
+    <tr>
+      <td>视觉形象识别系统</td>
+      <td>footprintcat/frost-iot-visual</td>
+      <td><a href="https://github.com/footprintcat/frost-iot-visual">GitHub 仓库</a></td>
+      <td><a href="https://gitee.com/footprintcat/frost-iot-visual">Gitee 国内镜像</a></td>
+    </tr>
   </tbody>
 </table>
