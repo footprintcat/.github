@@ -28,7 +28,7 @@
       <th>项目</th>
       <th>仓库名</th>
       <th colspan="2">仓库</th>
-      <th colspan="2">许可证</th>
+      <th>许可证</th>
     </tr>
   </thead>
   <tbody>
@@ -48,7 +48,7 @@
     </tr>
     <tr>
       <td>综合管理平台</td>
-      <td>footprintcat/frost-iot-doc-manager</td>
+      <td>footprintcat/frost-iot-manager</td>
       <td><a href="https://github.com/footprintcat/frost-iot-manager">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-manager">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot-manager/blob/main/LICENSE">BSD-3-Clause license</a></td>
