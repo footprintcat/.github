@@ -35,7 +35,7 @@
   <tbody>
     <tr>
       <td colspan="2">主仓库</td>
-      <td>footprintcat/frost-iot</td>
+      <td>frost-iot</td>
       <td><a href="https://github.com/footprintcat/frost-iot">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot/blob/main/LICENSE">BSD-3-Clause license</a></td>
@@ -43,7 +43,7 @@
     </tr>
     <tr>
       <td colspan="2">项目文档</td>
-      <td>footprintcat/frost-iot-docs</td>
+      <td>frost-iot-docs</td>
       <td><a href="https://github.com/footprintcat/frost-iot-docs">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-docs">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot-docs/blob/main/LICENSE">CC-BY-4.0 license</a></td>
@@ -52,7 +52,7 @@
     <tr>
       <td rowspan="2">综合管理平台</td>
       <td>后端</td>
-      <td>footprintcat/frost-iot-manager</td>
+      <td>frost-iot-manager</td>
       <td><a href="https://github.com/footprintcat/frost-iot-manager">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-manager">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot-manager/blob/main/LICENSE">BSD-3-Clause license</a></td>
@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td>Web 端</td>
-      <td>footprintcat/frost-iot-manager-web</td>
+      <td>frost-iot-manager-web</td>
       <td><a href="https://github.com/footprintcat/frost-iot-manager-web">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-manager-web">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot-manager-web/blob/main/LICENSE">BSD-3-Clause license</a></td>
@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td colspan="2">视觉形象识别系统</td>
-      <td>footprintcat/frost-iot-visual</td>
+      <td>frost-iot-visual</td>
       <td><a href="https://github.com/footprintcat/frost-iot-visual">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-visual">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot-visual/blob/main/LICENSE">CC-BY-NC-ND-4.0 license</a></td>
