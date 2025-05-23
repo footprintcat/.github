@@ -29,6 +29,7 @@
       <th>仓库名</th>
       <th colspan="2">仓库</th>
       <th>许可证</th>
+      <th>Stars</th>
     </tr>
   </thead>
   <tbody>
@@ -38,6 +39,7 @@
       <td><a href="https://github.com/footprintcat/frost-iot">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot/blob/main/LICENSE">BSD-3-Clause license</a></td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot"></td>
     </tr>
     <tr>
       <td>项目文档</td>
@@ -45,6 +47,7 @@
       <td><a href="https://github.com/footprintcat/frost-iot-docs">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-docs">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot-docs/blob/main/LICENSE">CC-BY-4.0 license</a></td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot-docs"></td>
     </tr>
     <tr>
       <td>综合管理平台</td>
@@ -52,6 +55,7 @@
       <td><a href="https://github.com/footprintcat/frost-iot-manager">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-manager">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot-manager/blob/main/LICENSE">BSD-3-Clause license</a></td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot-manager"></td>
     </tr>
     <tr>
       <td>视觉形象识别系统</td>
@@ -59,6 +63,7 @@
       <td><a href="https://github.com/footprintcat/frost-iot-visual">GitHub 仓库</a></td>
       <td><a href="https://gitee.com/footprintcat/frost-iot-visual">Gitee 国内镜像</a></td>
       <td><a href="https://github.com/footprintcat/frost-iot-visual/blob/main/LICENSE">CC-BY-NC-ND-4.0 license</a></td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot-visual"></td>
     </tr>
   </tbody>
 </table>
