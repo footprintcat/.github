@@ -50,6 +50,14 @@
       <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot-docs"></td>
     </tr>
     <tr>
+      <td colspan="2">适配器</td>
+      <td>frost-iot-adapter</td>
+      <td><a href="https://github.com/footprintcat/frost-iot-adapter">GitHub</a></td>
+      <td><a href="https://gitee.com/footprintcat/frost-iot-adapter">Gitee</a></td>
+      <td><a href="https://github.com/footprintcat/frost-iot-adapter/blob/main/LICENSE">BSD-3-Clause license</a></td>
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot-adapter"></td>
+    </tr>
+    <tr>
       <td rowspan="2">综合管理平台</td>
       <td>后端</td>
       <td>frost-iot-manager</td>
