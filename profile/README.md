@@ -82,5 +82,13 @@
       <td><a href="https://github.com/footprintcat/frost-iot-visual/blob/main/LICENSE">CC-BY-NC-ND-4.0 license</a></td>
       <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot-visual"></td>
     </tr>
+    <tr>
+      <td colspan="2">模板仓库（创建新仓库用）</td>
+      <td>frost-iot-repo-template</td>
+      <td><a href="https://github.com/footprintcat/frost-iot-repo-template">GitHub</a></td>
+      <td><a href="https://gitee.com/footprintcat/frost-iot-repo-template">Gitee</a></td>
+      <td>/</td>
+      <td>/</td>
+    </tr>
   </tbody>
 </table>
