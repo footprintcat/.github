@@ -101,6 +101,17 @@
       <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot-visual"></td>
       -->
     </tr>
+    <tr>
+      <td colspan="2">模拟器</td>
+      <td>frost-iot-simulator</td>
+      <td><a href="https://github.com/footprintcat/frost-iot-simulator">GitHub</a></td>
+      <td><a href="https://gitee.com/footprintcat/frost-iot-simulator">Gitee</a></td>
+      <td>Java</td>
+      <td><a href="https://github.com/footprintcat/frost-iot-simulator/blob/main/LICENSE">BSD-3-Clause license</a></td>
+      <!--
+      <td><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/footprintcat/frost-iot-simulator"></td>
+      -->
+    </tr>
     <!--
     <tr>
       <td colspan="2">模板仓库（创建新仓库用）</td>
