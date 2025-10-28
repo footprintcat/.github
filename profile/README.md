@@ -1,3 +1,6 @@
+<!-- 修改时请同步修改 .gitcode 仓库 README.md -->
+<!-- https://gitcode.com/footprintcat/.gitcode/blob/main/README.md -->
+
 # 脚印猫开源
 
 武汉脚印猫科技有限公司 开源项目
@@ -9,7 +12,7 @@
 
 邮箱：contact@footprintcat.com
 
-开源：[GitHub](https://github.com/footprintcat) [Gitee](https://gitee.com/footprintcat)
+开源：[GitHub](https://github.com/footprintcat) [Gitee](https://gitee.com/footprintcat) / 镜像：[GitCode](https://gitcode.com/footprintcat)
 
 ## 开源项目
 
@@ -21,6 +24,9 @@
 项目官网 & 文档：[iot.footprintcat.com](https://iot.footprintcat.com)
 
 代码仓库：
+
+<!-- 修改时请同步修改 寒霜物联项目文档 -->
+<!-- https://github.com/footprintcat/.github/edit/main/profile/README.md -->
 
 <table>
   <thead>
@@ -127,3 +133,5 @@
     -->
   </tbody>
 </table>
+
+镜像仓库：[GitCode](https://gitcode.com/footprintcat)
