@@ -134,4 +134,4 @@
   </tbody>
 </table>
 
-镜像仓库：[GitCode](https://gitcode.com/footprintcat)
+镜像仓库：[GitCode](https://gitcode.com/footprintcat) | [Codeberg](https://codeberg.org/footprintcat)
